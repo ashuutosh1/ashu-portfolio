@@ -214,7 +214,7 @@ export default function Page() {
                     <span className="font-bold"> communities, training programs and projects</span>.
                     Here are some key
                     <span className="font-bold"> certifications </span>
-                    I've earned along the way.
+                    I&apos;ve earned along the way.
 
                   </p>
                 </div>

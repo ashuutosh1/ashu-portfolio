@@ -262,13 +262,13 @@ export const DATA = {
       technologies: ["Java", "XML", "Firebase", "Android Studio"],
       links: [
         {
-          type: "Play Store",
-          href: "https://play.google.com/store/apps/details?id=com.chiragagg5k.bu_news_android",
+          type: "Live Demo",
+          href: "https://mintifi.vercel.app/",
           icon: <Play className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/ChiragAgg5k/bu-news-android",
+          href: "https://github.com/ashuutosh1/mintifi",
           icon: <Icons.github className="size-3" />,
         },
       ],

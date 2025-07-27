@@ -42,12 +42,13 @@ export default function Page() {
                 />
 
                 <BlurFade delay={BLUR_FADE_DELAY}>
-                  <span className="flex max-md:flex-col gap-4">  <Button size={`sm`} variant={`outline`}>
-                    {DATA.email}
-                    <Mail className="ml-2 h-4 w-4" />
-                  </Button>
+                  <span className="flex max-md:flex-col gap-4">
+                    <Button size={`sm`} variant={`outline`}>
+                      {DATA.email}
+                      <Mail className="ml-2 h-4 w-4" />
+                    </Button>
                     <Link
-                      href="/resume.pdf"
+                      href="/my_resume.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
